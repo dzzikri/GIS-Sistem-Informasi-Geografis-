@@ -39,3 +39,11 @@ Menurut Penelitian yang dilakukan oleh para ahli, ternyata kota Mekkahlah yang m
 Kesimpulan
 	Jadi, Sistem Informasi Geografis yaitu system informasi khusus yang mengelola data yang memiliki informasi spasial 
 	Longitude dan Latitude adalah suatu sistem koordinat geografis yang digunakan untuk menentukan lokasi suatu tempat di permukaan bumi. Latitude/garis lintang adalah garis yang menentukan lokasi berada di sebelah utara atau selatan ekuator. Sedangkan Longitude/garis bujur adalah garis yang digunakan untuk menentukan lokasi di wilayah barat atau timur dari garis utara selatan yang sering disebut juga garis meridian.
+	
+
+Referensi ; https://www.cpuik.com/2014/11/pengertian-sistem-informasi-geografi.html https://ganadp.wordpress.com/2011/02/27/software-yang-mendukung-sistem-informasi-geografis/
+	
+Link Plagiarisme Checker
+1. Smallseotools : https://drive.google.com/open?id=0B0ibOfzWLbxrVzZYM3ZzTGFZdmc 
+2. Duplichecker : https://drive.google.com/open?id=0B0ibOfzWLbxrc01uMHNpVkczQkk
+	
