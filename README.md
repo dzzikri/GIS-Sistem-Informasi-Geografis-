@@ -11,4 +11,7 @@
 Tugas Pertemuan 1 GIS
 Link Materi : https://github.com/dzzikri/GIS-Sistem-Informasi-Geografis-/blob/master/kuliah/pertemuan1.md
 
+Tugas Pertemuan 2 GIS
+Link Materi : https://github.com/dzzikri/GIS-Sistem-Informasi-Geografis-/blob/master/kuliah/pertemuan-2.md
+
 
