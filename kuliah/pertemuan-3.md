@@ -9,6 +9,10 @@ Pada pertemuan kali ini saya akan membahas mengenai cara menggunakan data shapef
 
 
 Isi:
+
+4 Jenis Manipulasi data
+https://github.com/dzzikri/GIS-Sistem-Informasi-Geografis-/blob/master/img/manipulasi%20data.JPG
+
 Vektor dibagi menjadi 3 yaitu : garis, titik dan polygon
 Pada data vector, titik dapat digunakan sebagai lokasi sebuah kota. Garis dapat digunakan untuk menunjukkan rute perjalanan, jalur kereta atau menggambarkan boundary. Poligon bisa digunakan untuk menggambarkan sebuah sungai, danau atau Negara pada peta dunia
 
