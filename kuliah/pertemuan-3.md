@@ -30,16 +30,16 @@ Pada pertemuan kali ini kita dapat mengetahui bagaimana cara menghitung jumlah r
 Saran
 Diperbanyak lagi untuk praktek untuk memperdalam bahasa pemrograman phyton di perkuliahan ini, agar mahasiswa lebih banyak mengetahui mengenai bahasa pemrograman ini.
 
-Nama : Dzikri Ahmad Ghifari
-NPM : 1144077
-Kelas : 3A
-Prodi : D4 Teknik Informatika
-Mata Kuliah : Sistem Informasi Geografis
+* Nama : Dzikri Ahmad Ghifari
+* NPM : 1144077
+* Kelas : 3A
+* Prodi : D4 Teknik Informatika
+* Mata Kuliah : Sistem Informasi Geografis
 
 
 Referensi : http://ghosthand5.blogspot.co.id/2013/03/apa-itu-python.html
 
 Scan Plagiarisme
-1.	Smallseotools : https://drive.google.com/open?id=0B0ibOfzWLbxrMDlieDNURjJfSWc
-2.	Duplichecker : https://drive.google.com/open?id=0B0ibOfzWLbxrYXFEb0xvbU55a0E
+* 1.	Smallseotools : https://drive.google.com/open?id=0B0ibOfzWLbxrMDlieDNURjJfSWc
+* 2.	Duplichecker : https://drive.google.com/open?id=0B0ibOfzWLbxrYXFEb0xvbU55a0E
 
