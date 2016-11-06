@@ -14,7 +14,10 @@ Link Materi : https://github.com/dzzikri/GIS-Sistem-Informasi-Geografis-/blob/ma
 Tugas Pertemuan 2 GIS
 Link Materi : https://github.com/dzzikri/GIS-Sistem-Informasi-Geografis-/blob/master/kuliah/pertemuan-2.md
 
-Tuhas Pertemuan 3-GIS
+Tuhas Pertemuan 3 GIS
 Link Materi : https://github.com/dzzikri/GIS-Sistem-Informasi-Geografis-/blob/master/kuliah/pertemuan-3.md
+
+Tugas Pertemuan 4 GIS
+Link Materi : https://github.com/dzzikri/GIS-Sistem-Informasi-Geografis-/blob/master/kuliah/Pertemuan4.md
 
 
