@@ -22,6 +22,8 @@ Retrieve data geospasial adalah meretrieve data vector
 Shapefile : standar file
 
 vector geospasial dikeluarkan oleh ESRI
+https://github.com/dzzikri/GIS-Sistem-Informasi-Geografis-/blob/master/img/shp.JPG
+
 
 Geometri
 
@@ -37,11 +39,10 @@ Operasi Pengambilan Data Library pyshp class shapefile
 1. Buka/baca
 
 2. 
-
+https://github.com/dzzikri/GIS-Sistem-Informasi-Geografis-/blob/master/img/keterangan.JPG
 
 
 SHP
-
 Method :
 shapes() - Menampilkan semua
 shape(n) - Menampilkan dengan parameter
@@ -55,17 +56,11 @@ Akses menggunakan method .(titik)
  
 
 DBF
-
 Method :
-
 fields = nama fields
-
 record(n)
-
 Record (n) baris ke (n) records
-
 Akses menggunakan [ ]
-
 n adalah nomor sequence record
 
  
@@ -73,9 +68,7 @@ n adalah nomor sequence record
 bbox
 bording box, merupakan batas view peta.
 contohnya :
-
-
-
+https://github.com/dzzikri/GIS-Sistem-Informasi-Geografis-/blob/master/img/bbox.JPG
 Koordinat a,b,c,d itu di sebut bbox
 
 parts
@@ -92,13 +85,20 @@ jenis geometri dari points
 Praktek
 
 Menampilkan jumlah record melalui CMD
+https://github.com/dzzikri/GIS-Sistem-Informasi-Geografis-/blob/master/img/menampilkan%20jmlh%20record1.JPG
+
 
 Menampilkan jumlah record dengan menggunakan pyshp
+https://github.com/dzzikri/GIS-Sistem-Informasi-Geografis-/blob/master/img/file2.JPG
+https://github.com/dzzikri/GIS-Sistem-Informasi-Geografis-/blob/master/img/menampilkan%20file%20pyshp.JPG
+
 
 Menampilkan urutan record dengan menggunakan class geospasial editor
+https://github.com/dzzikri/GIS-Sistem-Informasi-Geografis-/blob/master/img/class%20geospasial%20editor.JPG
+
 
 Buat Method Select, Where Negara Indonesia
-
+https://github.com/dzzikri/GIS-Sistem-Informasi-Geografis-/blob/master/img/melihat%20select%20where%20negara.JPG
 
 
 
