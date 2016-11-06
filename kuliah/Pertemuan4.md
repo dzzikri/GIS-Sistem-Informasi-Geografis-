@@ -66,19 +66,19 @@ DBF
  
 
 bbox
-bording box, merupakan batas view peta.
-contohnya :
-https://github.com/dzzikri/GIS-Sistem-Informasi-Geografis-/blob/master/img/bbox.JPG
-Koordinat a,b,c,d itu di sebut bbox
+* bording box, merupakan batas view peta.
+* contohnya :
+* https://github.com/dzzikri/GIS-Sistem-Informasi-Geografis-/blob/master/img/bbox.JPG
+* Koordinat a,b,c,d itu di sebut bbox
 
 parts
-part ialah apakah record ini bagian dari record lainnya/pecahan record
+* part ialah apakah record ini bagian dari record lainnya/pecahan record
 
 points
-koordinat pembentuk peta
+* koordinat pembentuk peta
 
 shapetype
-jenis geometri dari points
+* jenis geometri dari points
 
 
 
