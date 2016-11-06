@@ -28,40 +28,40 @@ https://github.com/dzzikri/GIS-Sistem-Informasi-Geografis-/blob/master/img/shp.J
 Geometri
 
 Data koordinat yang membentuk bangun datar/ruang diantaranya:
-1. Point/titik [1]
-2. Line/garis [3] Shape,type
-3. Polygon [5]
+* 1. Point/titik [1]
+* 2. Line/garis [3] Shape,type
+* 3. Polygon [5]
 
 Inilah yang oleh ESRI disebut shapetype memiliki nomor standar
 
 
 Operasi Pengambilan Data Library pyshp class shapefile
-1. Buka/baca
+* 1. Buka/baca
 
-2. 
+* 2. 
 https://github.com/dzzikri/GIS-Sistem-Informasi-Geografis-/blob/master/img/keterangan.JPG
 
 
 SHP
-Method :
-shapes() - Menampilkan semua
-shape(n) - Menampilkan dengan parameter
-1. bbox
-2. parts
-3. point s 
-4. shape type
+* Method :
+* shapes() - Menampilkan semua
+* shape(n) - Menampilkan dengan parameter
+* 1. bbox
+* 2. parts
+* 3. point s 
+* 4. shape type
 
 Akses menggunakan method .(titik)
 
  
 
 DBF
-Method :
-fields = nama fields
-record(n)
-Record (n) baris ke (n) records
-Akses menggunakan [ ]
-n adalah nomor sequence record
+* Method :
+* fields = nama fields
+* record(n)
+* Record (n) baris ke (n) records
+* Akses menggunakan [ ]
+* n adalah nomor sequence record
 
  
 
