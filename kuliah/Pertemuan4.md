@@ -103,11 +103,11 @@ https://github.com/dzzikri/GIS-Sistem-Informasi-Geografis-/blob/master/img/melih
 
 
 Penutup
-Kesimpulan
-jadi pada pertemuan kali ini , kita dapat mengetahui bagaimana cara membuat class dan penggunaan method method yang terdapat pada retrieve data
+* Kesimpulan
+* jadi pada pertemuan kali ini , kita dapat mengetahui bagaimana cara membuat class dan penggunaan method method yang terdapat pada retrieve data
 
-Saran
-Harus lebih banyak melakukan praktek di kelas agar melatih mahasiswa supaya lebih memahami materi kali ini
+* Saran
+* Harus lebih banyak melakukan praktek di kelas agar melatih mahasiswa supaya lebih memahami materi kali ini
 
 
 
