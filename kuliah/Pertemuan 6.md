@@ -31,12 +31,12 @@ Lebih banyak di pelajari lag mengenai materi inii, dengan mencari referensi refe
 
 
 
-Nama : Dzikri Ahmad Ghifari
-NPM : 1144077
-Kelas : 3A
-Prodi : D4 Teknik Informatika 
-Mata Kuliah : Sistem Informasi Geografis
-Link Github : https://github.com/dzzikri/GIS-Sistem-Informasi-Geografis-
+* Nama : Dzikri Ahmad Ghifari
+* NPM : 1144077
+* Kelas : 3A
+* Prodi : D4 Teknik Informatika 
+* Mata Kuliah : Sistem Informasi Geografis
+* Link Github : https://github.com/dzzikri/GIS-Sistem-Informasi-Geografis-
 
 Referensi :
 https://mapproxy.org/
